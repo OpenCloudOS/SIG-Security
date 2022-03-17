@@ -4,9 +4,9 @@ OpenCloudOS SIG-security（安全SIG）安全SIG涵盖OpenCloudOS 项目的横�
 详见[《安全小组章程》](charter.MD)
 
 # 邮件列表
-- 组列表 
-- 组长专用
-- 秘书专用
+- 小组邮件列表 sig-security@lists.opencloudos.org
+- 组长邮件列表 sig-chair-security@lists.opencloudos.org
+- 秘书邮件列表 sig-secretary-security@lists.opencloudos.org
 
 # SIG会议
 见[社区日历](https://lists.opencloudos.org/calendar)
