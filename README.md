@@ -3,6 +3,14 @@ OpenCloudOS SIG-security（安全SIG）安全SIG涵盖OpenCloudOS 项目的横�
 
 详见[《安全小组章程》](charter.MD)
 
+# 成员
+* 朱民（腾讯）
+* 白波（腾讯）
+* 宁固（中科方德）
+* 符鹏飞（上海交大）
+* 王帅峰（北京初心）
+* 孙萌萌（海云捷讯）
+
 # 邮件列表
 - 小组邮件列表 sig-security@lists.opencloudos.org
 - 组长邮件列表 sig-chair-security@lists.opencloudos.org
